@@ -1,1 +1,1 @@
-need create file trans_add.txt and put private keys
+create file trans_add.txt and put private keys
